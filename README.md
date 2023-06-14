@@ -1,1 +1,1 @@
-# wordpress_plugins
+# Wordpress Plugins For Humans

@@ -1,2 +1,2 @@
-# Wordpress Plugins For Humans
-These I made to add functionality that I just couldn't find anywhere else.
+# Automatic SKU Lookups for Wordpress WooCommerce Products
+Because I couldn't find a plugin that exists to do this, I made one. Enjoy.
